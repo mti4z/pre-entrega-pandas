@@ -26,8 +26,8 @@ dataset limpio, exportado a **Parquet**.
 
 ```bash
 # 1. Clonar el repositorio
-git clone <URL-DE-TU-REPO>
-cd <nombre-del-repo>
+git clone https://github.com/mti4z/pre-entrega-pandas.git
+cd pre-entrega-pandas
 
 # 2. (Opcional) Entorno virtual
 python -m venv .venv
